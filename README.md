@@ -1,2 +1,5 @@
 # Urna Eletrônica
- Urna
+
+Urna Eletrônica feita em HTML, CSS e Javascript.
+Trabalhando com arrays e funções.
+Cancel changes
